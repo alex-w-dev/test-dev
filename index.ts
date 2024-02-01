@@ -24,4 +24,4 @@ console.log(6)
 //   return obj;
 // }
 // console.log(deepClone({ a: 1 }))
-// console.log(deepClone({ a: 1, b: [{ c: 1, g: Symbol(2) }] }))
+// console.log(deepClone({ a: 1, b: [{ c: 1 }] }))
